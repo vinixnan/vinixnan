@@ -1,6 +1,6 @@
 # Hey 👋, This is Vinicius de Carvalho
 
-My engineering career started as a Web Developer, where I made my first experiences with web services and systems using PHP and Java EE. Even though I liked the work I became very interested in the field of Artificial Intelligence 👨🏻‍💻 and its applications so that I decided to take up full-time studies 💡 as a Phd candidate 🎓 at the University of Sao Paulo 🏛 in the areas of Evolutionary Computing for multi-objective optimization and auto-selection for Machine Learning algorithms. There I work on problems such as Class integration Test Order, Travel Salesman Problem, and Vehicle Crashworthiness optimization. Recently, I have been studying the combination of multi-agent, evolutionary computation, and machine learning techniques in order to produce autonomous algorithms. Apart from my graduate program, I have been studying Deep Leaning and other machine learning techniques such as clustering and regression.
+A doctor in Computer engineering who really enjoys machine learning stuff and everything related to cloud computing. Ten years ago, my career started as a Web Developer, where I had some experience with web services and systems designed using PHP and Java. After working for almost three years in the industry, I became very interested in the field of Artificial Intelligence and its applications, so I decided to take up full-time studies as a graduate student in the areas of Evolutionary Computing for multi-objective optimization and auto-selection for Machine Learning algorithms. In my research, I dealt with problems from Software engineering, Logistics, Engineering, and mathematical optimization by always applying state-of-art AI algorithms. In terms of programming languages, in my career at the university, I used Java and Python (this last one is especially for data analysis). Three years ago I came back to the industry as a machine learning engineer, where I designed a recommendation system (coded in PHP and Python) and also helped in AWS Cloud improvements (Docker, EC2 autoscaling, and VPC) for an e-commerce website. Finally, I started to work as a back-end engineer/DevOps, where I was able to improve CI/CD, by improving Jenkinsfile and Dockerfiles, and by improving code performance and code test coverage for Python and Java. Apart from that, I keep studying ML and Cloud (especially AWS) as shown by my recent AWS certifications.
 
 <p align="center">
  <a href="https://www.linkedin.com/in/vinixnan/" target="blank">
@@ -16,7 +16,7 @@ My engineering career started as a Web Developer, where I made my first experien
 
 ### More about me...
 
-- 🔭 I’m currently working on my PhD thesis 📚 named as Multi-Agent Hyper-Heuristics (MOABHH repository) 💻.
+- 🔭 My PhD thesis 📚 named as Multi-Agent Hyper-Heuristics (MOABHH repository) 💻.
 - 🌱 Always learning AI stuff 🧠, in special Evolutionary computation 🧬 and machine learning. 
 - 🤝 I’m looking to collaborate on any Open Source Project involving Multi-Objective Optimization.
 - 💻 Coding in Java/Python Every day.
@@ -26,7 +26,6 @@ My engineering career started as a Web Developer, where I made my first experien
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/vinixnan)](https://github.com/vinixnan) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/vinixnan)](https://github.com/vinixnan) 
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/vinixnan)](https://github.com/vinixnan) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/vinixnan)](https://github.com/vinixnan)
 
 
